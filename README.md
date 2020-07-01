@@ -1,4 +1,4 @@
-## Hiya 👋
+## 👨‍🚀 👨‍💻
 
 ☀️ By day, I'm a Lead UX & Front End Astrocoder at [Element 84](https://github.com/element84)
 
