@@ -1,4 +1,4 @@
-![1500x500](https://user-images.githubusercontent.com/1045274/87225832-bf796400-c35d-11ea-9bcd-7297315cb146.jpeg)
+![Colby Fayock - colbyfayock.com](https://user-images.githubusercontent.com/1045274/87225832-bf796400-c35d-11ea-9bcd-7297315cb146.jpeg)
 
 
 ☀️ By day, I'm a Lead UX & Front End Astrocoder at [Element 84](https://github.com/element84)
