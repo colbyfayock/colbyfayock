@@ -9,3 +9,6 @@
 * 🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
 * 📺 [Subscribe on Youtube](https://www.youtube.com/colbyfayock?sub_confirmation=1)
 * 📬 [Get fresh content straight to your inbox](https://colbyfayock.com/newsletter)
+
+
+![Visitor Count](https://profile-counter.glitch.me/colbyfayock/count.svg)
