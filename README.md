@@ -12,3 +12,5 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/colbyfayock/count.svg)
+
+[Credit Counter: @ryanlanciaux](ryanlanciaux)
