@@ -2,10 +2,10 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td style="border: 0";>
       <img width="400" src="https://user-images.githubusercontent.com/1045274/88438860-a0f07f80-cdd7-11ea-9643-8aebdf09225e.png" />
     </td>
-    <td>
+    <td style="border: 0";>
       <p>
         ☀️ By day, I'm a Lead UX & Front End Astrocoder at <a href="https://github.com/element84">Element 84<a/>.
       </p>
@@ -15,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 ### Other places you can find me
 * 🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
 * 📺 [Subscribe on Youtube](https://www.youtube.com/colbyfayock?sub_confirmation=1)
