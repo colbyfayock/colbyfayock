@@ -12,11 +12,18 @@
       <p>
         🌙 By night, I'm an <a href="https://www.freecodecamp.org/news/author/colbyfayock/">author on freecodecamp.org</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
       </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          🐦 <a href="https://twitter.com/colbyfayock">Follow me on Twitter</a>
+        </li>
+        <li>
+          📺 <a href="https://www.youtube.com/colbyfayock?sub_confirmation=1">Subscribe on Youtube</a>
+        </li>
+        <li>
+          📬 <a href="https://colbyfayock.com/newsletter">Get fresh content straight to your inbox</a>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
-
-### Other places you can find me
-* 🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
-* 📺 [Subscribe on Youtube](https://www.youtube.com/colbyfayock?sub_confirmation=1)
-* 📬 [Get fresh content straight to your inbox](https://colbyfayock.com/newsletter)
