@@ -7,7 +7,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        ☀️ By day, I'm a Lead UX & Front End Astrocoder at <a href="https://github.com/element84">Element 84<a/>.
+        ☀️ By day, I'm a Developer Advocate at <a href="https://github.com/Applitools">Applitools<a/>.
       </p>
       <p>
         🌙 By night, I'm an <a href="https://www.freecodecamp.org/news/author/colbyfayock/">author on freecodecamp.org</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
