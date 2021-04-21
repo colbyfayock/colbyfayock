@@ -10,7 +10,7 @@
         ☀️ By day, I'm a Developer Advocate at <a href="https://github.com/Applitools">Applitools<a/>.
       </p>
       <p>
-        🌙 By night, I write <a href="https://spacejelly.dev/">tutorials on spacejelly.dev</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
+        🌙 By night, I write <a href="https://spacejelly.dev/">tutorials on spacejelly.dev</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, <a href="https://www.twitch.tv/colbyfayock">stream on Twitch</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
       </p>
       <h3>Other places you can find me</h3>
       <ul>
@@ -19,6 +19,9 @@
         </li>
         <li>
           📺 <a href="https://www.youtube.com/colbyfayock?sub_confirmation=1">Subscribe on Youtube</a>
+        </li>
+        <li>
+          🎥 <a href="https://www.twitch.tv/colbyfayock">Follow on Twitch</a>
         </li>
         <li>
           📬 <a href="https://colbyfayock.com/newsletter">Get fresh content straight to your inbox</a>
