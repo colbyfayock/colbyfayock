@@ -7,7 +7,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        ☀️ By day, I'm a Developer Advocate at <a href="https://github.com/Applitools">Applitools<a/>.
+        ☀️ By day, I'm a Senior Developer Experience Engineer at <a href="https://github.com/cloudinary">Cloudinary<a/>.
       </p>
       <p>
         🌙 By night, I write <a href="https://spacejelly.dev/">tutorials on spacejelly.dev</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, <a href="https://www.twitch.tv/colbyfayock">stream on Twitch</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
